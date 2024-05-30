@@ -1,6 +1,6 @@
 id = "gruber-darker"
 name = "Gruber Darker"
-version = "0.0.3"
+version = "0.0.4"
 schema_version = 1
 authors = ["Thomas Jensen <thomas.jensen_@outlook.com>"]
 description = "A port of Gruber Darker from emacs to Zed"
