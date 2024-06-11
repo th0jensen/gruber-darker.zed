@@ -1,7 +1,7 @@
 id = "gruber-darker"
 name = "Gruber Darker"
-version = "0.0.4"
+version = "0.0.5"
 schema_version = 1
 authors = ["Thomas Jensen <thomas.jensen_@outlook.com>"]
-description = "A port of Gruber Darker from emacs to Zed"
+description = "Theme a port of Gruber Darker from emacs to Zed"
 repository = "https://github.com/th0jensen/gruber-darker.zed"
