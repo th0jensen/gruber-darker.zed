@@ -43,7 +43,7 @@
                 "tab_bar.background": "#202020",
                 "tab.inactive_background": "#202020",
                 "tab.active_background": "#181818",
-                "search.match_background": "#52494e",
+                "search.match_background": "#737373b3",
                 "panel.background": "#181818",
                 "panel.focused_border": "#181818",
                 "pane.focused_border": "#181818",
@@ -63,7 +63,7 @@
                 "editor.invisible": "#52494e",
                 "editor.wrap_guide": "#52494e",
                 "editor.active_wrap_guide": null,
-                "editor.document_highlight.read_background": "#282828",
+                "editor.document_highlight.read_background": "#73737333",
                 "editor.document_highlight.write_background": "#282828",
                 "terminal.background": "#181818",
                 "terminal.foreground": "#e4e4ef",
@@ -136,7 +136,13 @@
                 "warning": "#ffdd33",
                 "warning.background": "#0e0e0e",
                 "warning.border": "#1a1a1a",
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#ffdd33ff",
+                        "background": null,
+                        "selection": "#737373b3"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#95a99f",
@@ -154,12 +160,12 @@
                         "font_weight": 400
                     },
                     "comment": {
-                        "color": "#cc8c3c",
+                        "color": "#6f6f6f",
                         "font_style": "normal",
                         "font_weight": 400
                     },
                     "comment.doc": {
-                        "color": "#cc8c3c",
+                        "color": "#6f6f6f",
                         "font_style": "normal",
                         "font_weight": 400
                     },
