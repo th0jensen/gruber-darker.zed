@@ -1,6 +1,6 @@
 id = "gruber-darker"
 name = "Gruber Darker"
-version = "0.0.5"
+version = "0.0.6"
 schema_version = 1
 authors = ["Thomas Jensen <thomas.jensen_@outlook.com>"]
 description = "A port of the Gruber Darker theme for emacs"
